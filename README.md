@@ -11,8 +11,8 @@ This repository contains an implementation of the Hamming Code algorithm in Rust
 To use the Hamming Code implementation, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/hamming-code.git
-   cd hamming-code
+   git clone https://github.com/imadenugraha/rust-hamming-code.git
+   cd rust-hamming-code
    ```
 2. Build the project:
    ```bash
